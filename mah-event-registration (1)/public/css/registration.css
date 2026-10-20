@@ -1,0 +1,7 @@
+ .mah-er-card{max-width:900px;margin:30px auto;padding:28px;border:1px solid #ddd;border-radius:16px;background:#fff;box-shadow:0 8px 30px rgba(0,0,0,.06)}
+.mah-er-card h2{margin-top:0}.mah-er-card label{display:block;margin:14px 0 6px;font-weight:600}
+.mah-er-card input,.mah-er-card select,.mah-er-card textarea{width:100%;box-sizing:border-box;padding:12px;border:1px solid #ccc;border-radius:8px}
+.mah-er-card button{margin-top:18px;padding:13px 22px;border:0;border-radius:8px;cursor:pointer}
+.mah-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}.mah-events{display:grid;gap:16px}.mah-events article{padding:20px;border:1px solid #ddd;border-radius:12px}
+#mah-er-message{margin-top:16px}.mah-admin-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.mah-admin-grid .card{background:#fff;padding:24px;border:1px solid #ddd}.mah-admin-grid strong,.mah-admin-grid span{display:block}
+@media(max-width:700px){.mah-grid,.mah-admin-grid{grid-template-columns:1fr}}
